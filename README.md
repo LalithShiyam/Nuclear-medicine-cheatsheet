@@ -10,6 +10,7 @@
 - [Dosimetry & Safety](#dosimetry--safety)
 - [Instrumentation & Quality Control](#instrumentation--quality-control)
 - [Recent Advances & Future Trends](#recent-advances--future-trends)
+- [PET Imaging Metrics](#pet-imaging-metrics)
 
 ## Basic Principles
 ### Definition:
@@ -1536,6 +1537,98 @@ Ensuring that the personnel operating the instruments are well-trained and updat
   
 - The growth of hybrid imaging modalities will offer comprehensive patient assessments, merging the best of different imaging worlds.
 nt.
+
+[Back to top](#nuclear-medicine-cheatsheet)
+
+## PET Imaging Metrics 
+
+In the realm of Positron Emission Tomography (PET) imaging, several metrics help us quantify and understand the biology of tumors.
+
+## 1. **Standardized Uptake Value (SUV) Metrics** 📏
+
+- **SUVmax** 🎯:
+  - **Definition**: Represents the highest SUV value within a region of interest (ROI) or tumor.
+  - **Advantages**: 
+    - Less susceptible to partial volume effects.
+    - More reproducible than SUVmean.
+  - **Disadvantages**: 
+    - Reflects only a single voxel's value.
+    - Sensitive to noise.
+
+- **SUVmean** ⚖️:
+  - **Definition**: Average SUV value within a defined ROI or tumor.
+  - **Advantages**: 
+    - Represents average radiotracer uptake within the ROI.
+    - Less sensitive to noise than SUVmax.
+  - **Disadvantages**: 
+    - ROI delineation-dependent.
+    - More susceptible to partial volume effects.
+
+- **SUVpeak** 🌄:
+  - **Definition**: Average SUV within a fixed-size 1 cm^3 spherical ROI centered around the SUVmax.
+  - **Advantages**: 
+    - Merges benefits of SUVmax and SUVmean.
+    - Less susceptible to noise and ROI delineation variability.
+  - **Disadvantages**: 
+    - Placement variability around SUVmax.
+
+- **SUL (SUV normalized for lean body mass)** 💪:
+  - **Definition**: SUV corrected for lean body mass. 
+  - **Formula**: SUL = SUV × (Patient Weight / Lean Body Mass)
+  - **Advantages**:
+    - Considers metabolic activity relative to lean body mass, which might provide a more accurate reflection of tissue uptake in certain patient groups, especially the obese.
+  - **Disadvantages**:
+    - Requires an accurate method to estimate lean body mass.
+
+- **SUVratio (or Relative SUV)** 🔄:
+  - **Definition**: SUV ratio of a target ROI to a reference region (e.g., a normal tissue).
+  - **Advantages**: 
+    - Adjusts for systemic tracer variations.
+    - Potentially offers consistent values.
+  - **Disadvantages**: 
+    - Reference region definition is crucial.
+
+## 2. **Advanced Metrics** 🧠
+
+- **Metabolic Tumor Volume (MTV)** 📦:
+  - **Definition**: Volume of the tumor showing metabolic activity above a threshold, e.g., SUV>2.5 or 40% of SUVmax.
+  - **Advantages**: 
+    - Reveals volume of active disease.
+    - Potential predictor of prognosis.
+  - **Disadvantages**: 
+    - Definition varies based on the threshold.
+
+- **Total Lesion Glycolysis (TLG)** 🌀:
+  - **Definition**: Product of MTV (as defined by a threshold like SUV>2.5) and SUVmean within that volume.
+  - **Advantages**: 
+    - Melds volume and metabolic activity.
+    - Prognostic value in certain cancers.
+  - **Disadvantages**: 
+    - Depends on MTV definition.
+
+- **Tumor-to-Background Ratio (TBR)** 🌓:
+  - **Definition**: SUV ratio of tumor to a background region.
+  - **Advantages**: 
+    - Provides normalization.
+    - Consistency in systemic uptake variation cases.
+  - **Disadvantages**: 
+    - Background region definition is essential.
+
+- **Heterogeneity Metrics** 🐆:
+  - Metrics such as entropy (values closer to 1 indicate heterogeneity), uniformity (values closer to 1 indicate uniformity), and high-intensity emphasis (values >1 indicate high SUV distribution).
+  - **Advantages**: 
+    - Insights into tumor behavior and prognosis.
+  - **Disadvantages**: 
+    - Requires specialized tools.
+    - Standardization challenges.
+
+- **Kinetic Modeling** ⏳:
+  - Evaluates dynamic radiotracer uptake over time using models like Patlak Plot (yields metabolic rate) and 2-Tissue Compartment Model (provides uptake rate, clearance rate, binding potentials).
+  - **Advantages**: 
+    - Insights into physiology and specific applications.
+  - **Disadvantages**: 
+    - Needs dynamic PET scanning and specialized modeling tools.
+
 
 [Back to top](#nuclear-medicine-cheatsheet)
 
