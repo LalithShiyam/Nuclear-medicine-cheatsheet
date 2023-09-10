@@ -84,7 +84,7 @@
 
 [Back to top](#nuclear-medicine-cheatsheet)
 
-## Imaging Techniques 📸
+## Imaging Techniques 
 
 
 ### 1. **Gamma Camera** 📸
