@@ -348,6 +348,101 @@ Immuno-PET combines the specificity of antibodies with the sensitivity of PET im
 - **Radiolabeling**: Choosing the right radionuclide to label the antibody without affecting its specificity or causing rapid degradation.
 - **Clearance**: Ensuring that non-bound antibodies are cleared swiftly from the bloodstream to improve imaging contrast.
 
+### 🦠 **Major Cancers Diagnosed and Treated by Nuclear Medicine**
+
+1. **🫁 Breast Cancer**
+   - **🔍 Diagnostic**:
+     - **🍬 FDG-PET**: This modality helps visualize the metabolic activity associated with primary tumors and metastatic lesions. Given that cancer cells often consume more glucose than normal cells, FDG accumulates in them, facilitating imaging.
+     - **🌺 FES-PET**: An imaging technique to visualize the estrogen receptor (ER) expression in breast cancer tumors, crucial for tailoring hormone-based therapies.
+   - **💉 Therapeutic**:
+     - **📿 PRRT (Peptide Receptor Radionuclide Therapy)**: Targets specific types of breast cancers expressing particular receptors.
+     - **🛡️ Radiolabeled antibodies**: These are molecules tailored to bind to specific tumor markers, enabling targeted delivery of radiation.
+
+2. **🌰 Prostate Cancer**
+   - **🔍 Diagnostic**:
+     - **🧬 PSMA-PET**: A highly sensitive modality for detecting metastasis and recurrences in prostate cancer due to its ability to target the prostate-specific membrane antigen overexpressed in these cells.
+   - **💉 Therapeutic**:
+     - **⚛️ Radium-223**: A targeted therapy for metastatic castration-resistant prostate cancer that has spread to bones but not other organs.
+     - **🧬 PSMA-targeted therapy**: Directly targets PSMA-expressing prostate cancer cells, delivering a lethal radiation dose.
+
+3. **🫁 Lung Cancer**
+   - **🔍 Diagnostic**:
+     - **🍬 FDG-PET**: Especially beneficial in staging lung cancers and detecting recurrences by identifying regions of heightened metabolic activity.
+   - **💉 Therapeutic**:
+     - **🛡️ Radiolabeled antibodies**: Molecules designed to specifically target markers on lung cancer cells, providing a targeted radiation dose.
+
+4. **🦋 Thyroid Cancer**
+   - **🔍 Diagnostic**:
+     - **🌀 Radioiodine Scan**: Capitalizes on the affinity of differentiated thyroid cancers for iodine, helping in their detection.
+   - **💉 Therapeutic**:
+     - **🌡️ I-131 therapy**: A mainstay for treating certain types of thyroid cancers post-operatively and for addressing metastatic differentiated thyroid cancers.
+
+5. **🧠 Neuroendocrine Tumors**
+   - **🔍 Diagnostic**:
+     - **🌌 Gallium-68 DOTA Peptides PET**: These peptides specifically bind to somatostatin receptors expressed on neuroendocrine tumors, allowing for precise imaging.
+   - **💉 Therapeutic**:
+     - **📿 PRRT**: An effective treatment for somatostatin receptor-positive tumors, delivering targeted radiation.
+
+6. **🧠 Brain Cancers**
+   - **🔍 Diagnostic**:
+     - **🍬 FDG-PET**: Provides a general evaluation of brain tumors based on their metabolic activity.
+     - **🍇 Amino Acid PET**: Offers more specific imaging for brain tumors as they tend to uptake amino acids at a higher rate.
+     - **🍏 Choline-PET**: Utilized for recurrent gliomas due to elevated choline metabolism in these tumors.
+   - **💉 Therapeutic**:
+     - **🛡️ Radiolabeled antibodies**: Specially designed to target specific markers on brain tumor cells.
+     - **🔥 BNCT (Boron Neutron Capture Therapy)**: An experimental technique that relies on the uptake of boron by tumor cells, followed by neutron irradiation, causing cell death.
+
+7. **🍇 Lymphomas**
+   - **🔍 Diagnostic**:
+     - **🍬 FDG-PET**: Extremely beneficial for the staging of lymphomas, monitoring treatment responses, and detecting relapses.
+   - **💉 Therapeutic**:
+     - **🛡️ Radiolabeled antibodies**: These target specific cells of the lymphatic system, delivering targeted radiation.
+
+8. **🦴 Bone Metastases**
+   - **🔍 Diagnostic**:
+     - **🪶 Bone Scintigraphy**: Uses Tc-99m labeled diphosphonates to image areas of bone remodeling commonly associated with metastases.
+   - **💉 Therapeutic**:
+     - **⚛️ Radium-223**: Specifically targets bone metastases arising from prostate cancer.
+     - **🌟 Samarium-153/Strontium-89**: These radionuclides preferentially localize to areas of bone metastases, providing pain relief by emitting beta radiation.
+
+### 🛡️ **Radiolabeled Antibodies in Nuclear Medicine**
+
+1. **🍬 FDG (Fluorodeoxyglucose)**
+   - Though not an antibody, FDG is a glucose analog radiolabeled with Fluorine-18. It's mainly used in PET imaging to detect and monitor various cancers based on their metabolic activity.
+
+2. **🧬 Rituximab**
+   - **Radiolabel**: Commonly labeled with Yttrium-90 (Y-90) or Iodine-131 (I-131).
+   - **Target**: CD20 antigen on B-lymphocytes.
+   - **Usage**: Mainly for non-Hodgkin's lymphoma.
+
+3. **🧪 Trastuzumab (Herceptin)**
+   - **Radiolabel**: Commonly labeled with Zirconium-89 (Zr-89) for PET imaging.
+   - **Target**: HER2/neu receptor.
+   - **Usage**: For HER2-positive breast cancers.
+
+4. **🌍 Cetuximab**
+   - **Radiolabel**: Labeled with Copper-64 (Cu-64) for diagnostic purposes.
+   - **Target**: Epidermal growth factor receptor (EGFR).
+   - **Usage**: Colorectal and head and neck cancers.
+
+5. **💡 Tositumomab (Bexxar)**
+   - **Radiolabel**: Iodine-131 (I-131).
+   - **Target**: CD20 antigen on B-lymphocytes.
+   - **Usage**: Non-Hodgkin's lymphoma.
+
+6. **🔥 Ibritumomab Tiuxetan (Zevalin)**
+   - **Radiolabel**: Yttrium-90 (Y-90) or sometimes Indium-111 (In-111) for dosimetry or imaging.
+   - **Target**: CD20 antigen on B-lymphocytes.
+   - **Usage**: Non-Hodgkin's lymphoma.
+
+7. **🌀 PSMA-targeted antibodies**
+   - **Radiolabel**: Gallium-68 (Ga-68) for PET imaging and Lutetium-177 (Lu-177) for therapeutic purposes.
+   - **Target**: Prostate-specific membrane antigen.
+   - **Usage**: Prostate cancer.
+
+8. **🌌 Immuno-PET using various antibodies**
+   - **Radiolabel**: Zirconium-89 (Zr-89) is a popular choice due to its long half-life suitable for the pharmacokinetics of antibodies.
+   - **Target & Usage**: Various targets depending on the antibody in question. Immuno-PET has been explored for imaging immune processes in real-time and has potential applications in several cancers.
 
   
 - **Cardiology**: Blood flow and heart function.
