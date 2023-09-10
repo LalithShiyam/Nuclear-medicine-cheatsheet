@@ -1252,7 +1252,7 @@ With the increasing challenges posed by antibiotic-resistant bacteria, radiolabe
 
 
 
-## 📏 **Dosimetry & Safety in Nuclear Medicine**
+## Dosimetry & Safety
 
 ## **Dosimetry in Nuclear Medicine** 
 
@@ -1459,7 +1459,7 @@ Ensuring that the personnel operating the instruments are well-trained and updat
 [Back to top](#nuclear-medicine-cheatsheet)
 
 
-## 🚀 **Recent Advances & Future Trends in Nuclear Medicine** 
+##  Recent Advances & Future Trends
 
 ### **1️⃣ Radiomics & Artificial Intelligence (AI) 🤖**:
 - **Radiomics**: The process of extracting a large number of features from radiographic images, which can be used for decision support in diagnostics and treatment planning.
