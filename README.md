@@ -82,6 +82,30 @@
   - 🎯 **Why Used:** Accumulates in the thyroid gland, allowing imaging or targeted destruction of thyroid tissue.
 
 
+
+| Radionuclide | Mean Positron Range (Rmean) (mm) | Maximum Positron Range (Rmax) (mm) |
+|--------------|---------------------------------|-----------------------------------|
+| 18F          | 0.44 - 0.57                     | 2.31 - 2.6                        |
+| 64Cu         | 0.56                            | 2.9                               |
+| 89Zr         | 0.87                            | 3.76                              |
+| 15O          | 2.00 - 2.39                     | 8.01 - 10.3                       |
+| 68Ga         | 2.70                            | 10.57                             |
+| 124I         | 5.03 - 5.33                     | 16.80 - 18.6                      |
+
+
+| Radionuclide      | Half-Life            |
+|--------------------|----------------------|
+| F-18 (Fluorine-18) | Approximately 109.7 minutes  |
+| C-11 (Carbon-11)   | Approximately 20.3 minutes   |
+| N-13 (Nitrogen-13) | Approximately 9.97 minutes   |
+| O-15 (Oxygen-15)   | Approximately 2.03 minutes   |
+| Rb-82 (Rubidium-82)| Approximately 1.27 minutes   |
+| Ga-68 (Gallium-68) | Approximately 67.7 minutes   |
+| I-124 (Iodine-124) | Approximately 4.18 days     |
+
+
+
+
 [Back to top](#nuclear-medicine-cheatsheet)
 
 ## Imaging Techniques 
