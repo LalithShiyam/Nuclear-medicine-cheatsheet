@@ -158,9 +158,6 @@
     - Vary based on the specific modality and indication. For instance, a PET/CT for cancer diagnosis might use Fluorine-18 FDG, while a SPECT/CT for cardiac imaging could utilize Technetium-99m.
 
 
-
-
-
 [Back to top](#nuclear-medicine-cheatsheet)
 
 ## Radiopharmaceuticals
@@ -168,39 +165,6 @@
 
 ### 🎛 **Production of Radiopharmaceuticals**
 
-#### **Cyclotrons in Radiopharmacy**
-
-**What are Cyclotrons?**
-In radiopharmacy, cyclotrons are particle accelerators designed to produce high-energy protons or deuterons. These particles then bombard target materials to produce specific radionuclides.
-
-**How Do Cyclotrons Work?**
-Electric fields are set up in a cyclical pattern, causing the charged particles to spiral outwards, gaining energy as they go. The high-energy particles then strike a target material, causing nuclear reactions and the production of radionuclides.
-
-**Applications in Radiopharmacy:**
-- Production of Fluorine-18 for PET imaging.
-- Creation of other radionuclides for various diagnostic and therapeutic applications.
-
----
-
-#### **Nuclear Reactors in Radiopharmacy**
-
-**What are Nuclear Reactors?**
-In the context of radiopharmacy, nuclear reactors are facilities that initiate, control, and sustain nuclear fission reactions, producing a slew of radionuclides in the process.
-
-**How Do Nuclear Reactors Work?**
-A reactor uses controlled fission reactions of enriched Uranium-235 or other fissile materials. As these atoms split, they release energy and a variety of radionuclides.
-
-**Key Role in Radiopharmacy:**
-- Main source for producing Molybdenum-99.
-- Enables production of several other radionuclides for medical use.
-
----
-
-#### 🎛 **Generators in Radiopharmacy**
-
-
-
-### 🏭 **Production of Radiopharmaceuticals**
 
 #### 🌀 **Cyclotrons in Radiopharmacy**
 
@@ -298,7 +262,94 @@ After entering the bloodstream, the radiopharmaceutical is carried to various bo
 [Back to top](#nuclear-medicine-cheatsheet)
 
 ## Clinical Applications
-- **Oncology**: Imaging for tumors, staging, treatment monitoring.
+
+### **1️⃣ Diagnostic and Staging Modalities in Oncology**
+Nuclear medicine plays a pivotal role in the diagnosis, staging, and monitoring of various cancers. Through the use of different radiopharmaceuticals, the metabolic activity of tumors and their response to treatments can be studied in depth.
+
+**A. FDG-PET/CT 📸**
+
+- **What is it?** PET using F-18 Fluorodeoxyglucose (FDG) combined with CT provides both metabolic and anatomical information. 
+- **How it works?** Cancer cells often have increased glucose metabolism. FDG, a glucose analog, accumulates in these hypermetabolic cells, which can be detected with PET. 
+- **Applications**:
+  - **Initial Staging**: Helps determine the extent of disease at diagnosis.
+  - **Re-staging**: Assesses the body post-treatment to check for residual or recurrent disease.
+  - **Therapeutic Monitoring**: Evaluates how well a tumor is responding to therapy.
+  - **Prognostication**: High uptake (SUV) can be correlated with a more aggressive tumor phenotype.
+
+**B. Gallium-68 DOTA Peptides (Somatostatin Receptor Imaging) 📸**
+
+- **What is it?** Gallium-68 labeled peptides target somatostatin receptors present on the surface of neuroendocrine tumor cells.
+- **Applications**:
+  - **Tumor Detection**: Especially for neuroendocrine tumors of the pancreas, gut, and lungs.
+  - **Follow-up**: Monitors disease progression or response to therapy.
+
+**C. Prostate-Specific Membrane Antigen (PSMA) PET/CT 📸**
+
+- **What is it?** PSMA is a cell surface protein overexpressed in prostate cancer cells. Radiolabeled molecules targeting PSMA provide a means to image prostate cancer.
+- **Applications**:
+  - **Recurrence Detection**: Particularly in patients with rising PSA levels post-treatment.
+  - **Staging**: Identifying lymph node metastases or distant spread.
+
+### **2️⃣ Therapeutic Monitoring and Follow-up**
+
+**A. Therapy Response Assessment 🔄**
+- **Metabolic Response Criteria**: Using FDG-PET, therapy response can be gauged by the reduction in FDG uptake in tumors post-therapy.
+- **Morphological Response**: Combined with CT or MRI, reduction in tumor size or changes in tumor characteristics can be analyzed.
+
+
+### **What is Theranostics?**
+
+Theranostics is a term that combines "therapy" and "diagnostics." It pertains to agents or procedures that combine both diagnostic imaging and therapeutic intervention, offering a two-in-one approach to patient management. By utilizing the same molecule or a similar molecular pathway for both diagnosis and treatment, personalized care becomes possible.
+
+### **1️⃣ Theranostic Pairings in Oncology**
+
+**A. Prostate Cancer 🧬**
+   
+- **Diagnostic**: PSMA PET/CT for identifying prostate cancer lesions.
+- **Therapeutic**: Lutetium-177 or Actinium-225 labeled PSMA ligands for radionuclide therapy. These agents emit radiation that can kill prostate cancer cells which express PSMA.
+
+**B. Neuroendocrine Tumors 🧬**
+
+- **Diagnostic**: Gallium-68 DOTA peptides (like DOTATATE) for imaging neuroendocrine tumors.
+- **Therapeutic**: Lutetium-177 labeled DOTA peptides for peptide receptor radionuclide therapy (PRRT). The radiation emitted targets and destroys the tumor cells with somatostatin receptors.
+
+### **2️⃣ Advantages of Theranostics 🌟**
+
+- **Tailored Treatment**: Only patients with positive diagnostic scans are treated, ensuring that the therapy will target the disease effectively.
+- **Monitoring**: Ability to image and assess the response to therapy using the same agent.
+- **Fewer Side Effects**: As the therapy is targeted, there's potentially reduced harm to healthy tissues.
+
+## 🌐 **Immuno-PET in Oncology**
+
+### **What is Immuno-PET?**
+
+Immuno-PET combines the specificity of antibodies with the sensitivity of PET imaging. It employs radiolabeled antibodies or fragments of antibodies to target and visualize immune processes in real-time.
+
+### **1️⃣ Applications**
+
+**A. Tumor Microenvironment Imaging 🖼️**
+
+- **Purpose**: Visualizing tumor-infiltrating lymphocytes, macrophages, and other immune cells.
+- **Relevance**: Provides insights into how 'hot' or 'cold' a tumor is, aiding in the decision for immunotherapy.
+
+**B. Assessing Immunotherapy Responses 🔄**
+
+- **Purpose**: To determine if a patient is responding to immunotherapy.
+- **Relevance**: Early response detection can guide whether to continue or switch treatment strategies.
+
+**C. Predicting Immunotherapy Success 📊**
+
+- **Purpose**: Predict which patients are likely to benefit from immunotherapy.
+- **Relevance**: Can prevent unnecessary treatments and their associated side effects.
+
+### **2️⃣ Challenges and Advancements 🚧**
+
+- **Size of Antibodies**: Traditional antibodies are large and might not penetrate tumors effectively. Smaller fragments or engineered versions are being developed to overcome this.
+- **Radiolabeling**: Choosing the right radionuclide to label the antibody without affecting its specificity or causing rapid degradation.
+- **Clearance**: Ensuring that non-bound antibodies are cleared swiftly from the bloodstream to improve imaging contrast.
+
+
+  
 - **Cardiology**: Blood flow and heart function.
 - **Neurology**: Brain disorders like Alzheimer's, Parkinson's.
 - **Endocrinology**: Thyroid and parathyroid glands.
