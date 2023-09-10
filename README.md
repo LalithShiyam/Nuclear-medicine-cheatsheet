@@ -164,12 +164,136 @@
 [Back to top](#nuclear-medicine-cheatsheet)
 
 ## Radiopharmaceuticals
-- **Production**: Made using cyclotrons, nuclear reactors, or generators.
-- **Common Types**: 
-  - Tc-99m for general imaging.
-  - F-18 FDG for PET.
-  - I-131 for thyroid conditions.
-- **Pharmacokinetics**: Absorption, distribution, metabolism, and excretion of radiopharmaceuticals.
+
+
+### 🎛 **Production of Radiopharmaceuticals**
+
+#### **Cyclotrons in Radiopharmacy**
+
+**What are Cyclotrons?**
+In radiopharmacy, cyclotrons are particle accelerators designed to produce high-energy protons or deuterons. These particles then bombard target materials to produce specific radionuclides.
+
+**How Do Cyclotrons Work?**
+Electric fields are set up in a cyclical pattern, causing the charged particles to spiral outwards, gaining energy as they go. The high-energy particles then strike a target material, causing nuclear reactions and the production of radionuclides.
+
+**Applications in Radiopharmacy:**
+- Production of Fluorine-18 for PET imaging.
+- Creation of other radionuclides for various diagnostic and therapeutic applications.
+
+---
+
+#### **Nuclear Reactors in Radiopharmacy**
+
+**What are Nuclear Reactors?**
+In the context of radiopharmacy, nuclear reactors are facilities that initiate, control, and sustain nuclear fission reactions, producing a slew of radionuclides in the process.
+
+**How Do Nuclear Reactors Work?**
+A reactor uses controlled fission reactions of enriched Uranium-235 or other fissile materials. As these atoms split, they release energy and a variety of radionuclides.
+
+**Key Role in Radiopharmacy:**
+- Main source for producing Molybdenum-99.
+- Enables production of several other radionuclides for medical use.
+
+---
+
+#### 🎛 **Generators in Radiopharmacy**
+
+
+
+### 🏭 **Production of Radiopharmaceuticals**
+
+#### 🌀 **Cyclotrons in Radiopharmacy**
+
+**What are Cyclotrons? 🤔**
+In radiopharmacy, cyclotrons are particle accelerators designed to produce high-energy protons or deuterons. These particles then bombard target materials to produce specific radionuclides.
+
+**How Do Cyclotrons Work? 🔁**
+Electric fields are set up in a cyclical pattern, causing the charged particles to spiral outwards, gaining energy as they go. The high-energy particles then strike a target material, causing nuclear reactions and the production of radionuclides.
+
+**Applications in Radiopharmacy 🌟:**
+- Production of Fluorine-18 for PET imaging.
+- Creation of other radionuclides for various diagnostic and therapeutic applications.
+
+---
+
+#### 🌋 **Nuclear Reactors in Radiopharmacy**
+
+**What are Nuclear Reactors? 🤔**
+In the context of radiopharmacy, nuclear reactors are facilities that initiate, control, and sustain nuclear fission reactions, producing a slew of radionuclides in the process.
+
+**How Do Nuclear Reactors Work? ⚛️**
+A reactor uses controlled fission reactions of enriched Uranium-235 or other fissile materials. As these atoms split, they release energy and a variety of radionuclides.
+
+**Key Role in Radiopharmacy 💡:**
+- Main source for producing Molybdenum-99.
+- Enables production of several other radionuclides for medical use.
+
+---
+
+#### 🎛 **Generators in Radiopharmacy**
+
+**What are Generators? 🤔**
+In radiopharmacy, a generator is a system that allows for the production of a short-lived daughter radionuclide from a longer-lived parent radionuclide. The daughter radionuclide is then used in medical applications, especially when it has a short half-life and cannot be easily transported from a central production facility to hospitals or imaging centers.
+
+**How Do Generators Work? 🔄**
+The generator contains a parent radionuclide that decays into a daughter radionuclide. Once the daughter is formed, it can be extracted or "eluted" from the generator using an appropriate solvent (usually saline solution). This process is often referred to as "milking" the generator.
+
+**The Mo-99/Tc-99m Generator: A Prime Example 🌟**
+The Molybdenum-99/Technetium-99m (Mo-99/Tc-99m) generator is the most well-known and widely used generator system in nuclear medicine.
+
+- **Parent Radionuclide (Mo-99) ⏳:**
+  - Half-life: 66 hours.
+  - Decay Product: Technetium-99m (Tc-99m) through beta decay.
+- **Daughter Radionuclide (Tc-99m) 📸:**
+  - Half-life: 6 hours.
+  - Usage: Diagnostic imaging in nuclear medicine.
+
+---
+
+### 🌐 **Common and Exotic Radiopharmaceuticals in Medical Imaging**
+
+#### **Technetium-99m Based Agents 🧪**
+
+**Understanding Tc-99m: 🤔**
+Tc-99m is a metastable gamma-emitting nuclear isomer. Due to its favorable radiation properties and short half-life, it's ideal for various imaging procedures.
+
+**Applications 🌟:**
+- Bone scans using Tc-99m MDP.
+- Myocardial perfusion imaging.
+- Renal function assessments with Tc-99m MAG3.
+
+#### **Fluorodeoxyglucose (F-18 FDG) 🍬**
+
+**Unpacking F-18 FDG: 🤔**
+It's a glucose analog where a radioactive fluorine atom replaces hydroxyl. Tumors, being highly metabolic, consume more glucose, making F-18 FDG invaluable in oncology imaging.
+
+**Applications 🌟:**
+- PET imaging to visualize metabolic activity in tumors.
+
+---
+
+### 🔄 **Pharmacokinetics of Radiopharmaceuticals**
+
+#### **Absorption in the Body 💉**
+
+**What is Absorption? 🤔**
+It's the process by which radiopharmaceuticals move from the administration site into the bloodstream.
+
+**Methods 🌟:**
+- Most common: Intravenous injection.
+- Others: Inhalation or oral intake.
+
+#### **Distribution in Tissues 🌍**
+
+**Understanding Distribution: 🤔**
+After entering the bloodstream, the radiopharmaceutical is carried to various body tissues. The patterns depend on the specific agent and its chemical properties.
+
+**Factors Influencing Distribution 🌟:**
+- Blood flow to organs.
+- Binding to plasma proteins.
+- Compound's lipophilicity.
+
+
 
 [Back to top](#nuclear-medicine-cheatsheet)
 
